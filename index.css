@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo01{
+    width:230px;
+}
+
+.span01{
+    color:#FF6A00;
+    font-weight: bold;
+}
